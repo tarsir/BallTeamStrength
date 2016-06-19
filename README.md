@@ -12,8 +12,8 @@ research paper. It is written in Elixir as a small project to help me learn Elix
 Assuming you have Elixir on your machine, the way I've been running it, which is subject
 to change very soon, is to open `iex` sourcing this file. From a clean directory, that is
 ```
-git clone https://github.com/tarsir/{{REPO NAME FILL IN}}
-cd {{REPO NAME}}
+git clone https://github.com/tarsir/BallTeamStrength.git
+cd BallTeamStrength
 iex main.ex
 ```
 And you should be able to enter it, warnings abound.
